@@ -1,1 +1,9 @@
-
+---linux basics:
+mkdir: Make a directory;create a folder
+cd: Change directory ; enter/move to a folder
+pwd: Print working directory; show where you are 
+ls: List → show files and folders 
+touch: Create a new file 
+cp: Copy;copy a file 
+mv: Move; move or rename a file
+rm: Remove;delete a file
